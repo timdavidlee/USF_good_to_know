@@ -1,11 +1,7 @@
 # Sample SQL Interview Questions - Paired Programming
 
-The following borrows the schema setup in coderpad, popular paired programming interviewing tool. The context of these questions is that you should be expected to:
 
-1. Explain your progress as you type
-2. Talking on the phone
-3. Type real code that should execute
-
+Here are some of my favorite SQL-related questions to challenge thinking on SQL problems. There's a few easy `SELECT *` related questions to warm people up, but there are some difficult questions in there as well.
 
 ### The Schema
 ```

@@ -1,5 +1,7 @@
 ## SQL Whiteboard Questions
 
+These are some of my favorite SQL whiteboard questions for practicing SQL syntax and problem solving. Collecting them here, because I keep forgetting them when im writing on the whiteboard.
+
 ### Whiteboard Scenario #1 Blogging Platform
 
 ```

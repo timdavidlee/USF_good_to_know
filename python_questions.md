@@ -1,5 +1,6 @@
 ### Python Practice Questions
 
+These are a collection of some of my favorite python questions, either inspired by other people's stories, or from some of the exercises found on hackerrank or codewars. Got difficult to mark all of my favorites so I started saving the questions here for my own practice.
 
 #### Example 1
 
@@ -78,18 +79,11 @@ phrases = ['catba', 'batca','tree', 'atcab', 'dog','god','mussel']
 # create a function to check if the sentence is a pangram
 # ----------------------------------------------------------------------
 #)
-
 # a = "We promptly judged antique ivory buckles for the next prize"
 # "panagram"
 
 # b = "We promptly judged antique ivory buckles for the prize"
 # "not pangram"
-
-#'
-
-#'
-
-#'
 
 f = 'Pack my box with five dozen liquor bottles'
 ```
